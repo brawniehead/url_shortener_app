@@ -1,1 +1,23 @@
+ URL Shortener App
+
+A simple and minimal URL shortener built with Python, Flask, and JSON — no database needed. Designed to let you create, manage, and redirect short links with ease.
+
+ Features
+
+- Shorten long URLs to custom or random short codes
+- JSON file used as a lightweight storage backend (`urls.json`)
+- Clean web UI (served from `templates/`)
+- Automatic redirection for valid short codes
+- Handles duplicate entries and edge cases
+
+Tech Stack
+
+Backend: Python 3, Flask
+Frontend: HTML
+Storage: JSON (`urls.json`)
+
+
+
+## 📂 Project Structure
+
 
